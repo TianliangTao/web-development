@@ -1,0 +1,48 @@
+html {
+    font-family: sans-serif;
+    background: rgb(247, 243, 244);
+    background-image: url("https://www.2008php.com/2021_Website_appreciate/2022-03-05/20220305210134.jpg") ;
+}
+
+body {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    margin: 1rem 0;
+    text-align: center;
+}
+
+a {
+    color: CornflowerBlue;
+    text-decoration: none;
+}
+
+
+nav {
+    background: rgb(169, 222, 225);
+    padding: 0 0.5rem;
+    border-radius: 25px;
+}
+
+nav ul  {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li a {
+    display: block;
+    padding: 0.5rem;
+}
+
+.content {
+    padding: 0 1rem 1rem;
+    background: rgb(169, 222, 225);
+    border-radius: 25px;
+}
+
